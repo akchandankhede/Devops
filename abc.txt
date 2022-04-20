@@ -36,4 +36,4 @@ git commit
 git logs 
 git stash 
 git status 
-git cherry-pick
+
