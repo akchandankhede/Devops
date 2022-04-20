@@ -1,0 +1,39 @@
+1.planning
+code 
+
+build tool : mvn 
+app-server : tomcat 
+front : nginx 
+database : maria DB 
+ version control tool : git 
+ branching strategy : git 
+
+Jenkins : master node, Worker node 
+
+cloud : AWS Cloud
+    ec2 
+    autoscalling + loadbalancing
+    RDS 
+    cloudwatch, nagios
+    vpc 
+    terraform 
+    ecs  
+    Docker ( images ) 
+    eks (K8s), kubeadm, GKS, AKS 
+
+Env.
+  Dev
+  test
+  prod 
+
+ Dev: 
+
+
+git init 
+git clone 
+git pull
+git commit 
+git logs 
+git stash 
+git status 
+git cherry-pick
